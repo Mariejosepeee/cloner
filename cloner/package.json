@@ -1,0 +1,27 @@
+{
+  "name": "cloner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "symbole",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "buffer-replace": "^1.0.0",
+    "child_process": "^1.0.2",
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security",
+    "glob": "^7.2.3",
+    "inquirer": "^8.2.0",
+    "node-fetch": "^2.6.7",
+    "os": "^0.1.2",
+    "readline-sync": "^1.4.10",
+    "retry-axios": "^2.6.0",
+    "sync-fetch": "^0.4.1"
+  }
+}
